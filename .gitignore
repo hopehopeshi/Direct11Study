@@ -32,4 +32,4 @@
 *.app
 
 # プロジェクトフォルダ内の .vs ファイルは要らない
-GitProject/.vs
+GitProject/.vs/
