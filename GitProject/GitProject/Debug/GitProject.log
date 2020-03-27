@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\hope0\desktop\direct11study\gitproject\gitproject\main.cpp(2): warning C4101: 'push': ローカル変数は 1 度も使われていません。
+  GitProject.vcxproj -> C:\Users\hope0\Desktop\Direct11Study\GitProject\Debug\GitProject.exe
