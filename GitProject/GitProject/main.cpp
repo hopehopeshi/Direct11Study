@@ -1,1 +1,5 @@
-int main (void){}
+int main (void){
+	int push;
+
+	return 0;
+}
